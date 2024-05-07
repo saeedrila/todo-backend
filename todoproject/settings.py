@@ -28,8 +28,8 @@ INSTALLED_APPS = [
     # DRF
     "rest_framework",
     "rest_framework.authtoken",
-    #Filter
-    'django_filters',
+    # Filter
+    "django_filters",
     # User defined app
     "todolist",
 ]
